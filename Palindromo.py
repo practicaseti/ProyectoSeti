@@ -6,7 +6,11 @@ Torcido= "".join(reversed(Captura))
 #Se realiza la condicion se quitan espacios si existen para asegurar la palabra 
 if Captura.replace(" ","")==Torcido.replace(" ",""):
 
+<<<<<<< HEAD
     print("La palabra "+ Captura + "  palindroma")
+=======
+    print("La palabra "+ Captura + "  SI ES palindroma")
+>>>>>>> feature/featuredos
 
 else: 
     print("La palabra "+ Captura + " No es palindroma")
