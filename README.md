@@ -1,0 +1,1 @@
+Codigo en python para verificar que una palabra sea palindroma
